@@ -10,7 +10,8 @@
         "react-router-dom": "^5.0.1",
         "react-scripts": "3.1.1",
         "tailwind-react-ui": "^0.8.1",
-        "webpack": "^4.39.1"
+        "webpack": "^4.39.1",
+        "yarn": "^1.17.3"
     },
     "scripts": {
         "start": "npm-run-all --parallel watch:css start:react",
@@ -21,7 +22,9 @@
         "build:react": "react-scripts build",
         "test": "react-scripts test",
         "eject": "react-scripts eject",
-        "homepage": "https://github.com/cFabricio23r/pokedex-react.git"
+        "predeploy": "yarn run build",
+        "deploy": "gh-pages -d build",
+        "homepage": "https://https://cfabricio23r.github.io/pokedex-react/"
     },
     "eslintConfig": {
         "extends": "react-app"
