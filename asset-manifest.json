@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b86f05c.chunk.css",
-    "main.js": "/static/js/main.c37258d4.chunk.js",
-    "main.js.map": "/static/js/main.c37258d4.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.81610260.js",
-    "runtime~main.js.map": "/static/js/runtime~main.81610260.js.map",
-    "static/js/2.92d060ab.chunk.js": "/static/js/2.92d060ab.chunk.js",
-    "static/js/2.92d060ab.chunk.js.map": "/static/js/2.92d060ab.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.796ae33cc3212023853638f7bd65a343.js": "/precache-manifest.796ae33cc3212023853638f7bd65a343.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.2b86f05c.chunk.css.map": "/static/css/main.2b86f05c.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "//cfabricio23r.github.io/pokedex-react/static/css/main.2b86f05c.chunk.css",
+    "main.js": "//cfabricio23r.github.io/pokedex-react/static/js/main.c2f363a0.chunk.js",
+    "main.js.map": "//cfabricio23r.github.io/pokedex-react/static/js/main.c2f363a0.chunk.js.map",
+    "runtime~main.js": "//cfabricio23r.github.io/pokedex-react/static/js/runtime~main.b42fa7bf.js",
+    "runtime~main.js.map": "//cfabricio23r.github.io/pokedex-react/static/js/runtime~main.b42fa7bf.js.map",
+    "static/js/2.92d060ab.chunk.js": "//cfabricio23r.github.io/pokedex-react/static/js/2.92d060ab.chunk.js",
+    "static/js/2.92d060ab.chunk.js.map": "//cfabricio23r.github.io/pokedex-react/static/js/2.92d060ab.chunk.js.map",
+    "index.html": "//cfabricio23r.github.io/pokedex-react/index.html",
+    "precache-manifest.9721b1a753bc690e806374d43ab2ad2a.js": "//cfabricio23r.github.io/pokedex-react/precache-manifest.9721b1a753bc690e806374d43ab2ad2a.js",
+    "service-worker.js": "//cfabricio23r.github.io/pokedex-react/service-worker.js",
+    "static/css/main.2b86f05c.chunk.css.map": "//cfabricio23r.github.io/pokedex-react/static/css/main.2b86f05c.chunk.css.map",
+    "static/media/logo.svg": "//cfabricio23r.github.io/pokedex-react/static/media/logo.5d5d9eef.svg"
   }
 }
