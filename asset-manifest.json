@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//cfabricio23r.github.io/pokedex-react/static/css/main.2b86f05c.chunk.css",
-    "main.js": "//cfabricio23r.github.io/pokedex-react/static/js/main.c2f363a0.chunk.js",
-    "main.js.map": "//cfabricio23r.github.io/pokedex-react/static/js/main.c2f363a0.chunk.js.map",
-    "runtime~main.js": "//cfabricio23r.github.io/pokedex-react/static/js/runtime~main.b42fa7bf.js",
-    "runtime~main.js.map": "//cfabricio23r.github.io/pokedex-react/static/js/runtime~main.b42fa7bf.js.map",
-    "static/js/2.92d060ab.chunk.js": "//cfabricio23r.github.io/pokedex-react/static/js/2.92d060ab.chunk.js",
-    "static/js/2.92d060ab.chunk.js.map": "//cfabricio23r.github.io/pokedex-react/static/js/2.92d060ab.chunk.js.map",
-    "index.html": "//cfabricio23r.github.io/pokedex-react/index.html",
-    "precache-manifest.9721b1a753bc690e806374d43ab2ad2a.js": "//cfabricio23r.github.io/pokedex-react/precache-manifest.9721b1a753bc690e806374d43ab2ad2a.js",
-    "service-worker.js": "//cfabricio23r.github.io/pokedex-react/service-worker.js",
-    "static/css/main.2b86f05c.chunk.css.map": "//cfabricio23r.github.io/pokedex-react/static/css/main.2b86f05c.chunk.css.map",
-    "static/media/logo.svg": "//cfabricio23r.github.io/pokedex-react/static/media/logo.5d5d9eef.svg"
+    "main.css": "/pokedex-react/static/css/main.2b86f05c.chunk.css",
+    "main.js": "/pokedex-react/static/js/main.b47645a4.chunk.js",
+    "main.js.map": "/pokedex-react/static/js/main.b47645a4.chunk.js.map",
+    "runtime~main.js": "/pokedex-react/static/js/runtime~main.cc129590.js",
+    "runtime~main.js.map": "/pokedex-react/static/js/runtime~main.cc129590.js.map",
+    "static/js/2.92d060ab.chunk.js": "/pokedex-react/static/js/2.92d060ab.chunk.js",
+    "static/js/2.92d060ab.chunk.js.map": "/pokedex-react/static/js/2.92d060ab.chunk.js.map",
+    "index.html": "/pokedex-react/index.html",
+    "precache-manifest.fa2e24a24085c3576e16a3ca0e6eb111.js": "/pokedex-react/precache-manifest.fa2e24a24085c3576e16a3ca0e6eb111.js",
+    "service-worker.js": "/pokedex-react/service-worker.js",
+    "static/css/main.2b86f05c.chunk.css.map": "/pokedex-react/static/css/main.2b86f05c.chunk.css.map",
+    "static/media/logo.svg": "/pokedex-react/static/media/logo.5d5d9eef.svg"
   }
 }
